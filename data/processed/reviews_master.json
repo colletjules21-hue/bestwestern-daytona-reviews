@@ -1,6 +1,6 @@
 [
   {
-    "review_id": "booking_922621062618",
+    "review_id": "booking_362099162123",
     "source": "booking",
     "date": "2026-04-15",
     "rating": 8.5,
@@ -10,7 +10,17 @@
     "lang": "en"
   },
   {
-    "review_id": "booking_332088353547",
+    "review_id": "tripadvisor_350870445633",
+    "source": "tripadvisor",
+    "date": "2026-04-15",
+    "rating": 5.0,
+    "text": "Excellent stay, staff is what makes this place. Everyone from housekeeping to the front desk was amazing. Great pool area, clean rooms, direct beach access.",
+    "author": "BeachLover2024",
+    "url": "https://www.tripadvisor.com/ShowUserReviews-bestwestern-daytona-r201",
+    "lang": "en"
+  },
+  {
+    "review_id": "booking_610883192143",
     "source": "booking",
     "date": "2026-04-14",
     "rating": 9.0,
@@ -20,7 +30,7 @@
     "lang": "en"
   },
   {
-    "review_id": "google_697159834437",
+    "review_id": "google_129365840409",
     "source": "google",
     "date": "2026-04-14",
     "rating": 4.0,
@@ -30,7 +40,17 @@
     "lang": "en"
   },
   {
-    "review_id": "booking_548676608506",
+    "review_id": "tripadvisor_645988483039",
+    "source": "tripadvisor",
+    "date": "2026-04-14",
+    "rating": 3.0,
+    "text": "Average hotel. The noise from the A/C was a real issue. Parking was tight. Pool was nice though, kids loved it. Breakfast was meh.",
+    "author": "TravelingDad",
+    "url": "https://www.tripadvisor.com/ShowUserReviews-bestwestern-daytona-r202",
+    "lang": "en"
+  },
+  {
+    "review_id": "booking_855758304673",
     "source": "booking",
     "date": "2026-04-13",
     "rating": 6.0,
@@ -40,7 +60,7 @@
     "lang": "en"
   },
   {
-    "review_id": "google_359892608458",
+    "review_id": "google_962101929838",
     "source": "google",
     "date": "2026-04-13",
     "rating": 5.0,
@@ -50,7 +70,17 @@
     "lang": "en"
   },
   {
-    "review_id": "booking_396013846629",
+    "review_id": "tripadvisor_945545797301",
+    "source": "tripadvisor",
+    "date": "2026-04-13",
+    "rating": 4.0,
+    "text": "Beautiful ocean views. Staff was very welcoming. Check-in took a while (maybe 25 minutes) but the rest of the stay was smooth. Breakfast was simple but okay.",
+    "author": "WanderingJane",
+    "url": "https://www.tripadvisor.com/ShowUserReviews-bestwestern-daytona-r203",
+    "lang": "en"
+  },
+  {
+    "review_id": "booking_107923759789",
     "source": "booking",
     "date": "2026-04-12",
     "rating": 7.5,
@@ -60,7 +90,7 @@
     "lang": "en"
   },
   {
-    "review_id": "google_74432926252",
+    "review_id": "google_14349927613",
     "source": "google",
     "date": "2026-04-12",
     "rating": 2.0,
@@ -70,7 +100,7 @@
     "lang": "en"
   },
   {
-    "review_id": "google_667078803401",
+    "review_id": "google_220528070758",
     "source": "google",
     "date": "2026-04-11",
     "rating": 4.0,
