@@ -1,0 +1,42 @@
+[
+  {
+    "review_id": "google_467874469353",
+    "source": "google",
+    "date": "2026-04-14",
+    "rating": 4.0,
+    "text": "Great location right on the beach. Check-in was a bit slow, waited 20 minutes. Room was clean and the bed was comfortable. Breakfast was basic but decent.",
+    "author": "Michael R.",
+    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r1",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_227069415464",
+    "source": "google",
+    "date": "2026-04-13",
+    "rating": 5.0,
+    "text": "Amazing staff, super friendly and helpful. The front desk lady went out of her way to help us with restaurant recommendations. Room was spotless, great ocean view.",
+    "author": "Sarah K.",
+    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r2",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_363681427325",
+    "source": "google",
+    "date": "2026-04-12",
+    "rating": 2.0,
+    "text": "Disappointed. The A/C was noisy all night, we barely slept. Check-in took forever. Breakfast was very limited.",
+    "author": "David L.",
+    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r3",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_924304894792",
+    "source": "google",
+    "date": "2026-04-11",
+    "rating": 4.0,
+    "text": "Nice hotel, great pool area. Parking was a bit tight and expensive. Staff was friendly and accommodating. Would stay again.",
+    "author": "Jennifer M.",
+    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r4",
+    "lang": "en"
+  }
+]
