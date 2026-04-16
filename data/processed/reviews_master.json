@@ -1,6 +1,26 @@
 [
   {
-    "review_id": "google_467874469353",
+    "review_id": "booking_922621062618",
+    "source": "booking",
+    "date": "2026-04-15",
+    "rating": 8.5,
+    "text": "Perfect location right on the beach. Room was clean, staff very friendly. The only downside was the noisy A/C unit which kept us awake.",
+    "author": "Thomas B.",
+    "url": "https://www.booking.com/reviews/bestwestern-daytona#r101",
+    "lang": "en"
+  },
+  {
+    "review_id": "booking_332088353547",
+    "source": "booking",
+    "date": "2026-04-14",
+    "rating": 9.0,
+    "text": "Loved our stay! The staff was incredible, always smiling. Breakfast was tasty with fresh fruit. Beach access is unbeatable.",
+    "author": "Emma V.",
+    "url": "https://www.booking.com/reviews/bestwestern-daytona#r102",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_697159834437",
     "source": "google",
     "date": "2026-04-14",
     "rating": 4.0,
@@ -10,7 +30,17 @@
     "lang": "en"
   },
   {
-    "review_id": "google_227069415464",
+    "review_id": "booking_548676608506",
+    "source": "booking",
+    "date": "2026-04-13",
+    "rating": 6.0,
+    "text": "Location is great but the room smelled musty. Parking lot was small and often full. Check-in process was slow.",
+    "author": "Carlos M.",
+    "url": "https://www.booking.com/reviews/bestwestern-daytona#r103",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_359892608458",
     "source": "google",
     "date": "2026-04-13",
     "rating": 5.0,
@@ -20,7 +50,17 @@
     "lang": "en"
   },
   {
-    "review_id": "google_363681427325",
+    "review_id": "booking_396013846629",
+    "source": "booking",
+    "date": "2026-04-12",
+    "rating": 7.5,
+    "text": "Good value for the price. Room was comfortable. Breakfast was average, not many hot options. Staff was helpful with local tips.",
+    "author": "Lisa H.",
+    "url": "https://www.booking.com/reviews/bestwestern-daytona#r104",
+    "lang": "en"
+  },
+  {
+    "review_id": "google_74432926252",
     "source": "google",
     "date": "2026-04-12",
     "rating": 2.0,
@@ -30,7 +70,7 @@
     "lang": "en"
   },
   {
-    "review_id": "google_924304894792",
+    "review_id": "google_667078803401",
     "source": "google",
     "date": "2026-04-11",
     "rating": 4.0,
