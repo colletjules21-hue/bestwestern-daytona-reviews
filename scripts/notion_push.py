@@ -120,6 +120,8 @@ def _upsert(database_id: str, props: dict, week: str, issue: str) -> dict:
             },
             timeout=30,
         )
+    if not r.ok:
+        print(f"[notion_push] HTTP {r.status_code} error: {r.text[:500]}")
     r.raise_for_status()
     return r.json()
 
