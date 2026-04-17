@@ -136,7 +136,7 @@ def _priority_from_frequency(freq: float) -> str:
 
 def push(insights_path: Path | str, database_id: str | None = None) -> int:
     """Upsert one row per issue / strength for the week into the Notion DB."""
-    database_id = database_id or os.environ["NOTION_DATABASE_ID"]
+    database_id = (database_id or os.environ["NOTION_DATABASE_ID"]).strip()
     data = json.loads(Path(insights_path).read_text())
     week = data.get("week", "")
     if not week:
