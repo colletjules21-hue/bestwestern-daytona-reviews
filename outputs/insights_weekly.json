@@ -1,9 +1,9 @@
 {
-  "week": NaN,
+  "week": "2026-W16",
   "top_issues": [],
   "top_strengths": [],
   "kpis": {
-    "avg_rating": null,
-    "total_reviews": 0
+    "avg_rating": 5.56,
+    "total_reviews": 8
   }
 }
