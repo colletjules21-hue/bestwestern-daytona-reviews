@@ -1,7 +1,49 @@
 {
   "week": "2026-W16",
-  "top_issues": [],
-  "top_strengths": [],
+  "top_issues": [
+    {
+      "name": "Parking issues",
+      "frequency": 0.214
+    },
+    {
+      "name": "Cockroaches / pest infestation",
+      "frequency": 0.143
+    },
+    {
+      "name": "Cleanliness issues (mold, stains, smell)",
+      "frequency": 0.143
+    },
+    {
+      "name": "Maintenance problems (lighting, broken)",
+      "frequency": 0.143
+    },
+    {
+      "name": "Unprofessional staff conduct",
+      "frequency": 0.143
+    }
+  ],
+  "top_strengths": [
+    {
+      "name": "Breakfast quality and variety",
+      "frequency": 0.429
+    },
+    {
+      "name": "Great location and beach access",
+      "frequency": 0.429
+    },
+    {
+      "name": "Friendly and helpful staff",
+      "frequency": 0.357
+    },
+    {
+      "name": "Room cleanliness",
+      "frequency": 0.286
+    },
+    {
+      "name": "Comfortable rooms and amenities",
+      "frequency": 0.286
+    }
+  ],
   "kpis": {
     "avg_rating": 4.18,
     "total_reviews": 14
