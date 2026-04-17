@@ -1,30 +1,58 @@
 [
   {
-    "author": "Michael R.",
-    "date": "2026-04-14",
-    "rating": 4,
-    "text": "Great location right on the beach. Check-in was a bit slow, waited 20 minutes. Room was clean and the bed was comfortable. Breakfast was basic but decent.",
-    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r1"
-  },
-  {
-    "author": "Sarah K.",
-    "date": "2026-04-13",
+    "author": "Cross Keys Chatteris",
     "rating": 5,
-    "text": "Amazing staff, super friendly and helpful. The front desk lady went out of her way to help us with restaurant recommendations. Room was spotless, great ocean view.",
-    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r2"
+    "date": "2026-04-14",
+    "text": "Great location, rooms are large and comfortable. Will definitely return on our next visit to Daytona.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g001"
   },
   {
-    "author": "David L.",
-    "date": "2026-04-12",
-    "rating": 2,
-    "text": "Disappointed. The A/C was noisy all night, we barely slept. Check-in took forever. Breakfast was very limited.",
-    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r3"
-  },
-  {
-    "author": "Jennifer M.",
-    "date": "2026-04-11",
+    "author": "Larry Strickland",
     "rating": 4,
-    "text": "Nice hotel, great pool area. Parking was a bit tight and expensive. Staff was friendly and accommodating. Would stay again.",
-    "url": "https://www.google.com/maps/reviews/bestwestern-daytona/r4"
+    "date": "2026-04-15",
+    "text": "Friendly service and good breakfast. Clean rooms and helpful staff. Good value for the area.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g002"
+  },
+  {
+    "author": "Chris Benson",
+    "rating": 1,
+    "date": "2026-04-13",
+    "text": "No lights in the hallways, cockroaches in the room. Reported to management and they did not care at all. Terrible experience.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g003"
+  },
+  {
+    "author": "Cesar Fernandes",
+    "rating": 4,
+    "date": "2026-04-16",
+    "text": "Breakfast had great variety, staff was kind and accommodating. They even received packages for me. Would recommend.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g004"
+  },
+  {
+    "author": "Peyton Powell",
+    "rating": 1,
+    "date": "2026-04-14",
+    "text": "Daytona 500 weekend was chaos. Parking situation was completely mismanaged. Witnessed unsafe behavior from hotel employees. Would not stay here again.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g005"
+  },
+  {
+    "author": "Amanda Ringstad",
+    "rating": 1,
+    "date": "2026-04-15",
+    "text": "Front desk staff member Viktor appeared impaired and refused to provide any assistance. Completely unprofessional. Avoid this hotel.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g006"
+  },
+  {
+    "author": "MICH618",
+    "rating": 5,
+    "date": "2026-04-13",
+    "text": "Breakfast was good even past 10am. Loved the balcony and the room was clean. Nice stay overall.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g007"
+  },
+  {
+    "author": "Kosha",
+    "rating": 2,
+    "date": "2026-04-14",
+    "text": "Mildewed smell throughout the room. Several floor lights were out in the hallway. Found a dirty stain on the bedding and spotted roaches. Very disappointing.",
+    "url": "https://maps.google.com/maps?cid=bestwestern-daytona&r=g008"
   }
 ]
